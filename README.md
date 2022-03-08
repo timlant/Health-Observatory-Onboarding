@@ -1,2 +1,4 @@
 # Health-Observatory-Onboarding
-Instructions for new employess to go through initial trainings and download software
+How do changes work? 
+
+Instructions for new Health Observatory staff for initial trainings and download software
