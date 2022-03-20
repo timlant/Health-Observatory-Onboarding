@@ -11,7 +11,7 @@ Install Plugins**:
 2.  In the Plugins Window, search for **QuickMapServices** and click
     **Install Plugin**:
 
-<img src="Picture2.PNG" width="780" />
+![Picture2](https://user-images.githubusercontent.com/65433392/159146235-ecd0d537-8695-42f6-9e98-658ad28422f4.png)
 
 3.  Close the Plugins window. Three new icons appear in the top toolbar
     menu: **MetaSearch**, **QuickMapServices** and **Search QMS**. Click
