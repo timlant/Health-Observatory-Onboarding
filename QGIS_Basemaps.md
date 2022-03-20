@@ -17,4 +17,4 @@ Install Plugins**:
     menu: **MetaSearch**, **QuickMapServices** and **Search QMS**. Click
     on **QuickMapServices** to see the available base map options:
 
-<img src="Picture3.PNG" width="723" />
+![Picture3](https://user-images.githubusercontent.com/65433392/159146236-4f7e538a-27a0-4769-854a-14bb55675bd0.png)
