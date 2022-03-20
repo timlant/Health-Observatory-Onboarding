@@ -6,7 +6,7 @@ Anna Gaylord
 **1.** Click **Plugins** in the top toolbar menu and **Manage and
 Install Plugins**:
 
-<img src="Picture1.PNG" width="682" />
+![Picture1](https://user-images.githubusercontent.com/65433392/159146234-ae7b78ea-0a7c-4631-a5a6-93a74f4feb43.png)
 
 2.  In the Plugins Window, search for **QuickMapServices** and click
     **Install Plugin**:
