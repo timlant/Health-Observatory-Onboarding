@@ -1,4 +1,4 @@
-# How to download the R Studio application
+# R Studio
 
 Talia Hernandez
 3/24/2022
