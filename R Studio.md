@@ -1,6 +1,7 @@
 # R Studio
 
 Talia Hernandez
+
 3/24/2022
 
 1. First enter the link for the [R Studio](https://www.rstudio.com/products/rstudio/download/) website.
