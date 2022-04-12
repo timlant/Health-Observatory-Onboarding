@@ -5,12 +5,8 @@ Roughly in order that you will want to use them:
 
 - R
 - AnyConnect
-- Connecting to a postgres/postgis database
 - qGis
+- Connecting to a postgres/postgis database
 - qGIS basemaps
 
-How do changes work? 
-
-Instructions for new Health Observatory staff for initial trainings and download software
-
-Testing how changes show up - AKM
+Files are organized in this directory for each application.  Go through the .md files to get up to speed with each application.  
