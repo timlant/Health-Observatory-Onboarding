@@ -32,7 +32,7 @@ Click **OK**.
 
 
 **4.** If authentication window pops up, enter your **ASU login** and
-password **coda**.
+password **coda**.  Note: this requires that you have an account on the database system.  If you do not know if you have been added to the database system yet, contact Tim Lant or another project lead.  Accounts on the postgis.rc.asu.edu system are managed (authorized, approved, and provisioned) by the project team on a group role basis and not Research Computing.  
 
 
 **5.** Click on **Database**, **DB Manager**:
