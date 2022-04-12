@@ -30,3 +30,6 @@ for your operating system (Mac or PC/Linux):
 ![Cisco5](https://user-images.githubusercontent.com/65433392/159148192-c381cdf0-f6cb-4b90-9c85-3874a7e61eb5.png)
 
 **6**. Download file and install to your computer.
+
+
+**7**.  Once installed, you can connect to the location 'sslvpn.asu.edu/2fa'.  This will take you to a Sign In form.  Enter your Username (asurite) and Password.  In the next box, type the word 'push' for a push notification to your phone using 2 factor authentication (2fa).  
