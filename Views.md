@@ -9,7 +9,7 @@ tables. Views for 2019 American Community Survey demographic data
 (snap_demography_races) currently exist in Census database, Public
 schema, Views:
 
-![](view.JPG)<!-- -->
+![view](https://user-images.githubusercontent.com/65433392/171473318-5d79dbce-b30c-4bbb-b614-c8fd13d56101.PNG)
 
 The steps for using views in QGIS are the following:
 
@@ -18,20 +18,19 @@ The steps for using views in QGIS are the following:
 
 **2.** In DB Manager window, click **PostGIS**, **postgis.rc.asu.edu**:
 
-![](view1.JPG)<!-- -->
+![view1](https://user-images.githubusercontent.com/65433392/171473323-6db37464-91c7-4579-ad23-99326129812a.PNG)
 
 **3.** In **Enter Credentials** window, enter your login and password,
 hit **OK**:
-
-![](view2.JPG)<!-- -->
+![view2](https://user-images.githubusercontent.com/65433392/171473326-77635d94-0b0a-4dfb-a750-8f51672459a4.PNG)
 
 **4.** Click on **public** dropdown, all Views will be listed as layers
 among other available objects:
 
-![](view3.JPG)<!-- -->
+![view3](https://user-images.githubusercontent.com/65433392/171473328-f2d61e72-50b0-4513-96c1-7f4957df9e5a.PNG)
 
 **5.** Right click on the view layer you need and click on **Add to
 Canvas**. Close DB Manager window. **6.** The table is mapped and is
 ready to be symbolized!
 
-![](view4.JPG)<!-- -->
+![view4](https://user-images.githubusercontent.com/65433392/171473331-a842824e-2c19-4922-9c62-462017427686.PNG)
