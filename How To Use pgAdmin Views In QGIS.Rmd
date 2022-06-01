@@ -10,27 +10,27 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 Views are virtual tables that can be mapped in QGIS just like regular tables. Views for 2019 American Community Survey demographic data (acs_2019_snap_w_geography), and for SNAP and races demography (snap_demography_races) currently exist in Census database, Public schema, Views:
 
-![view](https://user-images.githubusercontent.com/65433392/171468516-52146bb7-9cc6-42aa-a214-bc356e0aa589.jpg)
-
-The steps for using views in QGIS are the following: 
+![view](https://user-images.githubusercontent.com/65433392/171471151-99249f6c-626f-4834-a68e-52bab94055fc.jpg)
 
 **1.** (Connect to Cisco AnyConnect before proceeding) In QGIS, click on **Database** to open **DB Manager**.
 
 **2.** In DB Manager window, click **PostGIS**, **postgis.rc.asu.edu**:
 
-![view1](https://user-images.githubusercontent.com/65433392/171468517-7c0f1200-d700-4019-b6e4-98d308167997.jpg)
+![view1](https://user-images.githubusercontent.com/65433392/171471158-b9e80e4a-a24b-49ca-856e-fd0cca848999.jpg)
+
+The steps for using views in QGIS are the following: 
 
 **3.** In **Enter Credentials** window, enter your login and password, hit **OK**:
 
-![view2](https://user-images.githubusercontent.com/65433392/171468521-bc1e1918-61c2-40ea-a56f-ea311d20dd19.jpg)
+![view2](https://user-images.githubusercontent.com/65433392/171471159-3524ebbc-2d14-4cde-b87a-2284ea60e5fc.jpg)
 
 **4.** Click on **public** dropdown, all Views will be listed as layers among other available objects:
 
-![view3](https://user-images.githubusercontent.com/65433392/171468522-41d785ca-4016-486b-baac-0312a217e1af.jpg)
+![view3](https://user-images.githubusercontent.com/65433392/171471163-7423e384-c56f-4ed6-835b-58724094ee8f.jpg)
 
 **5.** Right click on the view layer you need and click on **Add to Canvas**. Close DB Manager window.
 **6.** The table is mapped and is ready to be symbolized!
 
-![view4](https://user-images.githubusercontent.com/65433392/171468526-30d15b47-34e5-448a-b24c-cf68d7430840.jpg)
+![view4](https://user-images.githubusercontent.com/65433392/171471170-cc6beb5a-1a2e-4b51-bebe-697045edc778.jpg)
 
 
