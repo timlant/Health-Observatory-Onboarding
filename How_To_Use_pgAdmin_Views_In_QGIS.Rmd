@@ -10,9 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 Views are virtual tables that can be mapped in QGIS just like regular tables. Views for 2019 American Community Survey demographic data (acs_2019_snap_w_geography), and for SNAP and races demography (snap_demography_races) currently exist in Census database, Public schema, Views:
 
-```{r view, echo=FALSE}
-knitr::include_graphics("view.JPG")
-```
+![view](https://user-images.githubusercontent.com/65433392/171468516-52146bb7-9cc6-42aa-a214-bc356e0aa589.jpg)
 
 The steps for using views in QGIS are the following: 
 
@@ -20,27 +18,19 @@ The steps for using views in QGIS are the following:
 
 **2.** In DB Manager window, click **PostGIS**, **postgis.rc.asu.edu**:
 
-```{r view1, echo=FALSE}
-knitr::include_graphics("view1.JPG")
-```
-
+![view1](https://user-images.githubusercontent.com/65433392/171468517-7c0f1200-d700-4019-b6e4-98d308167997.jpg)
 
 **3.** In **Enter Credentials** window, enter your login and password, hit **OK**:
 
-```{r view2, echo=FALSE} 
-knitr::include_graphics("view2.JPG")
-```
+![view2](https://user-images.githubusercontent.com/65433392/171468521-bc1e1918-61c2-40ea-a56f-ea311d20dd19.jpg)
 
 **4.** Click on **public** dropdown, all Views will be listed as layers among other available objects:
 
-```{r view3, echo=FALSE} 
-knitr::include_graphics("view3.JPG")
-```
+![view3](https://user-images.githubusercontent.com/65433392/171468522-41d785ca-4016-486b-baac-0312a217e1af.jpg)
 
 **5.** Right click on the view layer you need and click on **Add to Canvas**. Close DB Manager window.
 **6.** The table is mapped and is ready to be symbolized!
 
-```{r view4, echo=FALSE} 
-knitr::include_graphics("view4.JPG")
-```
+![view4](https://user-images.githubusercontent.com/65433392/171468526-30d15b47-34e5-448a-b24c-cf68d7430840.jpg)
+
 
